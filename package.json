@@ -1,0 +1,13 @@
+{
+  "name": "@hokla/refactoring-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/gilded_rose.js",
+  "devDependencies": {
+    "jest": "25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": []
+}
